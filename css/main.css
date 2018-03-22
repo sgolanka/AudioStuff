@@ -1,3 +1,9 @@
+header{
+    img {
+        border: 0
+        width: 100px; /* Set a small width */
+    }
+}
 body {
     margin: 60px auto;
     width: 70%;
