@@ -58,16 +58,25 @@ td {
     vertical-align: top;
 }
 
-#specs {
-    
+table#specs {
     border-collapse: collapse;
-    tr {
-        valign : center;
-    }
-    table, th, td {
+    width: 75%;
+}
+
+
+table#specs table, th, td {
         border: 1px solid #ddd;
-    }
 }
         
+table#specs tr {
+        valign : center;
+}
 
+table#specs tr:nth-child(even) {
+    background-color: #eee;
+}
+
+table#specs tr:nth-child(even) {
+    background-color: #eee;
+}
 
