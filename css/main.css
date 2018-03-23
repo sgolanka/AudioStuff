@@ -61,8 +61,12 @@ td {
 #specs {
     
     border-collapse: collapse;
-    valign : center;
-    border: 1px solid #ddd;
+    tr {
+        valign : center;
+    }
+    table, th, td {
+        border: 1px solid #ddd;
+    }
 }
         
 
