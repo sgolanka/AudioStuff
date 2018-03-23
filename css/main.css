@@ -63,16 +63,12 @@ table#specs {
     width: 75%;
 }
 
-table#specs {
+table#specs td{
     vertical-align: middle;
 }
 
 table#specs table, th, td {
         border: 1px solid #ddd;
-}
-        
-table#specs tr {
-        valign : center;
 }
 
 table#specs tr:nth-child(even) {
