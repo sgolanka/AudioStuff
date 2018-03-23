@@ -44,15 +44,6 @@ footer {
     font-size: .8em;
 }
 
-#nav {
-    display: table;
-}
-
-#pages {
-    display: table-cell;
-    vertical-align: middle;
-}
-
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
@@ -61,6 +52,9 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+# specs {
+    valign : center;
 
 td {
     height: 50px;
