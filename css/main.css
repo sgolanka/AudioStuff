@@ -58,18 +58,11 @@ td {
     vertical-align: top;
 }
 
-# specs {
-    table {
-    border-collapse: collapse;
-    }
+#specs {
     
-    tr {
-        valign : center;
-    }
-
-    table, th, td {
-        border: 1px solid #ddd;
-    }
+    border-collapse: collapse;
+    valign : center;
+    border: 1px solid #ddd;
 }
         
 
