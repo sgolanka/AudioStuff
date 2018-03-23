@@ -61,3 +61,8 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+td {
+    height: 50px;
+    vertical-align: top;
+}
