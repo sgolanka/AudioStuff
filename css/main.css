@@ -64,6 +64,7 @@ table#specs {
 }
 
 table#specs td{
+    height: auto;
     vertical-align: middle;
 }
 
