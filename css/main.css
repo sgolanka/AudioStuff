@@ -53,11 +53,24 @@ ul.posts li {
     list-style: none;
 }
 
-# specs {
-    valign : center;
-    border: 1px solid #ddd;
-
 td {
     height: 50px;
     vertical-align: top;
 }
+
+# specs {
+    table {
+    border-collapse: collapse;
+    }
+    
+    tr {
+        valign : center;
+    }
+
+    table, th, td {
+        border: 1px solid #ddd;
+    }
+}
+        
+
+
