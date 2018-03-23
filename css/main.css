@@ -55,6 +55,7 @@ ul.posts li {
 
 # specs {
     valign : center;
+    border: 1px solid #ddd;
 
 td {
     height: 50px;
