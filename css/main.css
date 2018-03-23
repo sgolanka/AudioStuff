@@ -44,7 +44,9 @@ footer {
     font-size: .8em;
 }
 
-#nav {display: table;}
+#nav {
+    display: table;
+}
 
 #pages {
     display: table-cell;
