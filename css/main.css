@@ -53,6 +53,10 @@ ul.posts li {
     list-style: none;
 }
 
+table {
+    float: center;
+}
+
 td {
     height: 50px;
     vertical-align: top;
